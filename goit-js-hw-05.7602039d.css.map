@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["goit-js-hw-05.7602039d.css","src/styles.css"],"sourcesContent":["h1 {\n  color: #ff69b4;\n  font-family: cursive;\n}\n/*# sourceMappingURL=goit-js-hw-05.7602039d.css.map */\n","h1 {\n  color: hotpink;\n  font-family: cursive;\n}"],"names":[],"version":3,"file":"goit-js-hw-05.7602039d.css.map"}
